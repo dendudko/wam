@@ -20,13 +20,13 @@ function chooseMole(){
 }
 
 function epileptic(){
-    currentcolor = document.body.style.backgroundColor;
+    let currentColor = document.body.style.backgroundColor;
     if (ep==-1) {
-        if (currentcolor != "white" && currentcolor != "red") {
+        if (currentColor != "white" && currentColor != "red") {
             document.getElementById('body').style.backgroundColor = "white";
-        } else if (currentcolor == "white") {
+        } else if (currentColor == "white") {
             document.getElementById('body').style.backgroundColor = "red";
-        } else if (currentcolor == "red") {
+        } else if (currentColor == "red") {
             document.getElementById('body').style.backgroundColor = "black";
         }
         rec();
