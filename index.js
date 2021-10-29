@@ -120,3 +120,7 @@ function restartGame() {
     clearInterval(chAssSikiTimerID);
     startGame();
 }
+
+function stopGame(){
+    timerSec=1;
+}
