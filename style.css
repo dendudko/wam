@@ -16,6 +16,7 @@
     border: 2px solid #ffcd08;
     width: 110px;
     background-color: white;
+    background-size: cover;
 }
 body {
     background: #5800ff;
@@ -26,11 +27,6 @@ p{
     font-size: 24px;
     font-family: "Yu Gothic UI Semibold";
     margin: 5px;
-}
-
-.billy{
-    //background-image: url("billy.jpg");
-    background-size: cover;
 }
 
 .button{

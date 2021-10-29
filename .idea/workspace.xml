@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e68bb32-9b8c-4a52-9156-00c51c1f421a" name="Changes" comment="Position">
+    <list default="true" id="0e68bb32-9b8c-4a52-9156-00c51c1f421a" name="Changes" comment="Цвета кнопки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -46,7 +47,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635445578817</updated>
-      <workItem from="1635445580101" duration="12862000" />
+      <workItem from="1635445580101" duration="21598000" />
+      <workItem from="1635532818159" duration="9850000" />
     </task>
     <task id="LOCAL-00001" summary="help me...">
       <created>1635445762584</created>
@@ -90,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635522274190</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Цвета кнопки">
+      <created>1635522822150</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635522822150</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,12 +115,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="help me..." />
     <MESSAGE value="Реализовал фишечки" />
     <MESSAGE value="Добавил фавикон с хабра" />
     <MESSAGE value="Position" />
-    <option name="LAST_COMMIT_MESSAGE" value="Position" />
+    <MESSAGE value="Цвета кнопки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Цвета кнопки" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/wam$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1635530175455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
