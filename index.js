@@ -40,5 +40,3 @@ function epileptic(){
 function rec(){
     epiworks = setTimeout(epileptic, 85);
 }
-
-
