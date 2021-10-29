@@ -27,13 +27,14 @@ p{
     font-family: "Yu Gothic UI Semibold";
     margin: 5px;
 }
+
 .billy{
     //background-image: url("billy.jpg");
     background-size: cover;
 }
 
 .button{
-    background: #19c88f;
+    background: white;
     padding: 9px 10px;
     border:3px solid #ffcd08;
     width: fit-content;
@@ -45,8 +46,8 @@ p{
     color: #ffcd08;
 }
 .button:hover{
-    background: #32a983;
+    background: black;
 }
 .button:active{
-    background: snow;
+    background: white;
 }
